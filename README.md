@@ -14,6 +14,7 @@ KitJinn is a smart, hands-free kitchen assistant app developed by **CodēCodes**
 - **Recipe Detail View**: View in-depth recipe information, including ingredients, steps, and cooking tips.
 - **Settings**: Customize the app experience, including theme preferences and notifications.
 
+<!-- 
 ## Screenshots 📸
 
 1. **Home Screen**
@@ -30,6 +31,7 @@ KitJinn is a smart, hands-free kitchen assistant app developed by **CodēCodes**
 
 5. **Recipe Detail**
    <img src="./assets/images/recipe_detail.png" alt="Recipe Detail" width="300"/>
+-->
 
 ## Folder Structure
 
