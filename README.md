@@ -17,19 +17,19 @@ KitJinn is a smart, hands-free kitchen assistant app developed by **CodēCodes**
 ## Screenshots 📸
 
 1. **Home Screen**
-   <img src="./assets/images/home_screen.jpg" alt="Home Screen" width="300"/>
+   <img src="./home_screen.jpg" alt="Home Screen" width="300"/>
 
 2. **Meal Planner**
-   <img src="./assets/images/meal_planner.jpg" alt="Meal Planner" width="300"/>
+   <img src="./meal_planner.jpg" alt="Meal Planner" width="300"/>
 
 3. **Pantry Screen**
-   <img src="./assets/images/pantry_screen.jpg" alt="Pantry Screen" width="300"/>
+   <img src="./pantry_screen.jpg" alt="Pantry Screen" width="300"/>
 
 4. **Recipe List**
-   <img src="./assets/images/recipe_list.jpg" alt="Recipe List" width="300"/>
+   <img src="./recipe_list.jpg" alt="Recipe List" width="300"/>
 
 5. **Recipe Detail**
-   <img src="./assets/images/recipe_detail.jpg" alt="Recipe Detail" width="300"/>
+   <img src="./recipe_detail.jpg" alt="Recipe Detail" width="300"/>
 
 ## Folder Structure
 
