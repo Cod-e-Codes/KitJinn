@@ -14,24 +14,22 @@ KitJinn is a smart, hands-free kitchen assistant app developed by **CodēCodes**
 - **Recipe Detail View**: View in-depth recipe information, including ingredients, steps, and cooking tips.
 - **Settings**: Customize the app experience, including theme preferences and notifications.
 
-<!-- 
 ## Screenshots 📸
 
 1. **Home Screen**
-   <img src="./assets/images/home_screen.png" alt="Home Screen" width="300"/>
+   <img src="./assets/images/home_screen.jpg" alt="Home Screen" width="300"/>
 
 2. **Meal Planner**
-   <img src="./assets/images/meal_planner.png" alt="Meal Planner" width="300"/>
+   <img src="./assets/images/meal_planner.jpg" alt="Meal Planner" width="300"/>
 
 3. **Pantry Screen**
-   <img src="./assets/images/pantry_screen.png" alt="Pantry Screen" width="300"/>
+   <img src="./assets/images/pantry_screen.jpg" alt="Pantry Screen" width="300"/>
 
 4. **Recipe List**
-   <img src="./assets/images/recipe_list.png" alt="Recipe List" width="300"/>
+   <img src="./assets/images/recipe_list.jpg" alt="Recipe List" width="300"/>
 
 5. **Recipe Detail**
-   <img src="./assets/images/recipe_detail.png" alt="Recipe Detail" width="300"/>
--->
+   <img src="./assets/images/recipe_detail.jpg" alt="Recipe Detail" width="300"/>
 
 ## Folder Structure
 
@@ -55,7 +53,7 @@ KitJinn/
 │   │   └── custom_bottom_app_bar.dart # Custom navigation bar
 ├── assets/
 │   ├── images/                       # App assets and images
-│   │   ├── genie.png
+│   │   ├── genie.jpg
 │   │   ├── genie.json
 │   │   ├── genie2.json
 │   │   └── genie3.json
